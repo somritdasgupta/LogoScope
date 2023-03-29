@@ -1,4 +1,7 @@
-# Logoscope
+
+![image](https://user-images.githubusercontent.com/69674069/228514505-cb28b6c5-04cd-40dd-9234-ff68f1762cf1.png)
+
+
 
 Logoscope is a simple website that allows you to upload and download images stored in a SQL server database. It is built using Java and Servlet.
 
