@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\harsh\Documents\web-servlet-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3128004522.index
+\logoscope_copy\src\main\java
+C:\Users\harsh\Documents\web-servlet-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4255814849.index
+\logoscope\src\main\java
+C:\Users\harsh\Documents\web-servlet-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1857545398.index
+\logoscope\src\main\java
+C:\Users\harsh\Documents\web-servlet-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1932833247.index
+\logoscope_copy\src\main\java
